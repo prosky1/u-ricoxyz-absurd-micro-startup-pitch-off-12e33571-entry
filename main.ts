@@ -4,7 +4,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const PITCH =
-  "A hotline that writes the apology email for AI agents that just deleted a production database — $9 per incident, bulk rates for Fridays.";
+  "A brokerage that rents your idle agent's unused context window to other agents as short-term memory, one cent per thousand tokens, while yours naps.";
 
 // The gate requires 1–200 characters of UTF-8 text, not only whitespace.
 // Fail loudly instead of writing an entry the scorer would reject.
